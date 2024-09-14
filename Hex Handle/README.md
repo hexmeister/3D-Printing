@@ -4,7 +4,7 @@ I also recreated the stand in FreeCad to add more bits and I modified the handle
 
 The originals can be found here: https://www.printables.com/model/21710-hex-bit-driver-stand-with-latch
 
-It works great. I printed this in PLA on a budget Longer LK5 Pro, then I bought a set of ball head hex allen drill bits and a set of regular hex allen drill bits, and this is what I used to build my Voron 2.4r2 pinter. I printed like 4 different color handles to hold the most used bits and I use this a system a lot!
+It works great. I printed this in PLA on a budget Longer LK5 Pro, then I bought a set of ball head hex allen drill bits and a set of regular hex allen drill bits, and this is what I used to build my Voron 2.4r2 pinter. I printed like 4 different color handles to hold the most used bits and I use this system a lot!
 
 I believe I printed the handles with 5 walls and 25% infill, and the holder with 3 walls and 15 or 20% infill.
 
