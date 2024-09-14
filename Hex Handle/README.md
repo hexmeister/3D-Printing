@@ -1,4 +1,4 @@
-I recreated Vincent Chan's excellent hex driver in FreeCad to make it magnetic. I recreated the handle model in FreeCad to remove the latch mechanism (which didn't work well for me) and to add a recess for a 6x2mm magnet.
+I recreated Vincent Chan's excellent hex driver in FreeCad to make it magnetic. I recreated the handle model to remove the latch mechanism (which didn't work well for me) and to add a recess for a 6x2mm magnet.
 
 I also recreated the stand in FreeCad to add more bits and I modified the handle holes. My model didn't quite fit the original and I just made them round so I don't have to orient the handle with the hole.
 
