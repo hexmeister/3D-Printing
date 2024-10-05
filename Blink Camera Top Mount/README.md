@@ -1,6 +1,10 @@
 Blink Camera Top Mount
 
-I had a Blink battery powered camera from Amazon that I wasn't using, so I thought it'd be cool to use it to watch my Voron 2.4 printer since I can check it from anywhere. I made this mount to attach it to the top front 2020 extrusion of the printer and look down on the bed. I think it came out really well. I used PLA with 3 walls, 4 top shells, 3 bottom shells, and 25% infill. It requires supports for the 2020 connector part, so I used normal (auto) and grid.
+I had a Blink battery powered camera from Amazon that I wasn't using, so I thought it'd be cool to use it to watch my Voron 2.4 printer since I can check it from anywhere.
+
+I made this mount to attach it to the top front 2020 extrusion of the printer and look down on the bed. I think it came out really well.
+
+I used PLA with 3 walls, 4 top shells, 3 bottom shells, and 25% infill. It requires supports for the 2020 connector part, so I used normal (auto) and grid.
 
 It requires one M3x8 screw and an M3 T-nut.
 
