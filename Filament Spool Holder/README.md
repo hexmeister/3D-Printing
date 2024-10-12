@@ -12,6 +12,7 @@ I also added a hole test you can print to see if you need to adjust the hole siz
 
 I designed it to print on its side with no supports as long as your printer can handle the overhangs. I had no problems. I printed mine in PLA with 5 walls, 5 tops and bottoms, and 25% Crosshatch infill. It used about 155g of fillament.
 
+
 <img width="1365" alt="filament Holder V3 Isometric" src="https://github.com/user-attachments/assets/eb8ccc8f-945b-48d5-ae7e-267463367274">
 
 ![Filament Holder V2 Front](https://github.com/user-attachments/assets/5a69ee92-76a6-4d72-a0ae-d090687f8e9d)
