@@ -1,10 +1,18 @@
 Filament Spool Holder
 
+** UPDATED with V3 10.12.2024 **
+
 I wanted a filament spool holder I could sit on top of my voron 2.4 and mount to the top back 2020 rail, so I designed this one. It's big enough for all the various 1Kg spools I have... your milage may vary.
 
 It requires two M3x8 screws and two M3 T-nuts to mount it, and a short piece of 4mm (outer diameter) PTFE for the spool to glide on. The hole for the Reverse-Bowden tube wasn't quite tight enough to hold the tube in place as well as I wanted on my print, so I wrapped some electrical tape on it on both sides to make it stay put.
 
-I designed it to print on its side with no supports as long as your printer can handle the overhangs. I had no problems. I printed mine in PLA with 4 walls, 5 tops and bottoms, and 25% gyroid infill. It used about 125g of fillament.
+After using V2 for a couple of months, it was bending under the strain of a full 1Kg spool, so V3 adds bracing and widens the support a bit. It's working way better.
+
+I also added a hole test you can print to see if you need to adjust the hole size for your PTFE tube.
+
+I designed it to print on its side with no supports as long as your printer can handle the overhangs. I had no problems. I printed mine in PLA with 5 walls, 5 tops and bottoms, and 25% Crosshatch infill. It used about 155g of fillament.
+
+<img width="1365" alt="filament Holder V3 Isometric" src="https://github.com/user-attachments/assets/eb8ccc8f-945b-48d5-ae7e-267463367274">
 
 ![Filament Holder V2 Front](https://github.com/user-attachments/assets/5a69ee92-76a6-4d72-a0ae-d090687f8e9d)
 
